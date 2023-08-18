@@ -1,6 +1,6 @@
-## Hi there
+### Hi there
 
-# ***Welcome to GLaDOS-the-Potato.github***
+# ***Welcome to GLaDOS-the-Potato.github!***
 
 ### I am RotesSchwein, founder of this organization.
 
